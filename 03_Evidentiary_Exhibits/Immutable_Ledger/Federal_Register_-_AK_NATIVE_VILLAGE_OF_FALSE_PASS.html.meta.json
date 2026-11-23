@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+FALSE+PASS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+FALSE+PASS",
+  "title": "Federal Register - AK NATIVE VILLAGE OF FALSE PASS",
+  "fetched_at": "2026-11-23T16:14:14.745595Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 262749,
+  "sha256": "9e8c22585e4b4c641523461eeeb07001dc5ffa7901e07bc5ee2251b5f82855ed",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
